@@ -1,10 +1,4 @@
 prix=[7,1,5,3,6,4]
-
-
-
-
-
-
 def maxProfit(prix):
         gr=0
         n=len(prix)
